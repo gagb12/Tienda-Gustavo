@@ -1,4 +1,4 @@
 # Tienda-Gustavo
 
-EMAIL: gustavo@nextu.com
-PASSWORD: gustavo
+Email: test@email.com
+Password: test
